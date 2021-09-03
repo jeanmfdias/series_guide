@@ -1,3 +1,21 @@
+# Series Guide
+
+## Objetivo
+
+Projeto com base no curso a Alura, com objetivo reforçar conhecimentos base de Laravel e trabalhar com a versão 8.
+
+## Passo-a-passo
+
+- [x] Install Laravel
+- [ ] Controller
+- [ ] View
+- [ ] Model
+- [ ] Data validation
+- [ ] Transactions
+- [ ] Authentication
+- [ ] Middlewares
+- [ ] Tests
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
