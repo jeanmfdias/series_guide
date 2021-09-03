@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Series')
+
 @section('content')
 
     <div class="form-group">

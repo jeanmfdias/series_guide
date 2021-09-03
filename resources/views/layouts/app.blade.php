@@ -21,7 +21,7 @@
         <main class="container">
 
             <div class="jumbotron">
-                <h1>{{ $titlePage ?? 'Series' }}</h1>
+                <h1>@yield('title')</h1>
             </div>
 
             @yield('content')

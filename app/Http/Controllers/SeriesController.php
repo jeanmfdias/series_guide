@@ -19,8 +19,7 @@ class SeriesController extends Controller
 
     public function create(Request $request)
     {
-        $titlePage = 'Create Serie';
-        return view('series.create', compact('titlePage'));
+        return view('series.create');
     }
 
 }
