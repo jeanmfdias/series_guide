@@ -14,13 +14,7 @@ class SeriesController extends Controller
             'Modern Family',
         ];
 
-        $html = '<ul>';
-        foreach ($series as $serie) {
-            $html .= "<li>{$serie}</li>";
-        }
-        $html .= '</ul>';
-
-        return $html;
+        return view('series.index', compact('series'));
     }
 
 }
